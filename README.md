@@ -1,7 +1,7 @@
-<p align = 'center'>
+<h2 align="left">
 🐱‍🚀Julian Andres🐱‍🚀
 </p>
-<p align = 'center'>
+<h2 align="left">
 <a href ="https://spotify-recently-played-readme.vercel.app/api?user=31wrdrsz5odpdjhzon2mbwtwp6ha" target="https://open.spotify.com/user/31wrdrsz5odpdjhzon2mbwtwp6ha"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31wrdrsz5odpdjhzon2mbwtwp6ha&unique=true&count=1&width=300" /></a>
 
 </p>
