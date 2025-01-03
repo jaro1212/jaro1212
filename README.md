@@ -9,7 +9,7 @@
 
 
 
-- 😽 Entuciasta de **Frontend y Ilustracion**
+- 😽 Entuciasta de **Frontend e Ilustracion**
 
 - 😸 Activamente aprendiendo nuevas tecnologias!!
 
