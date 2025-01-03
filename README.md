@@ -22,7 +22,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/julian-andres-rodriguez-ocampo-208092196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julian-andres-rodriguez-ocampo-208092196" height="30" width="40" /></a>
 <a href="https://www.instagram.com/cjaro__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cjaro__" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jaivardhanbhola/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jaivardhanbhola/profile" height="30" width="40" /></a>
+<a href="https://discord.com/users/436648298024009758" target="blank"><img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6918e57475a843f59f_icon_clyde_black_RGB.svg" height="30" width="40" /></a>
 </p>
 <br>
 <br>
