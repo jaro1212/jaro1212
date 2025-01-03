@@ -9,11 +9,11 @@
 
 
 
-- 🔭 I’m currently working on **Desktop apps using Python**
+- 😽 Entuciasta de **Frontend y Ilustracion**
 
-- 🌱 I’m currently learning about **Desktop apps using Python**
+- 😸 Activamente aprendiendo nuevas tecnologias!!
 
-- 👨‍💻 My key projects are available at [my website](https://jaivardhan.netlify.app/)
+- 😺 Puedes ver mi [mi Portafolio](https://julianrodriguez.vercel.app/)
 
 <br>
 <br>
