@@ -1,5 +1,5 @@
 <p align = 'center'>
-<img src="https://user-images.githubusercontent.com/83286825/190104805-ef081365-7927-4361-ba40-c66ee6a7404a.png" />
+Julian Andres Rodriguez Ocampo 🐱‍🚀
 </p>
 <p align = 'center'>
 <a href ="https://spotify-recently-played-readme.vercel.app/api?user=31wrdrsz5odpdjhzon2mbwtwp6ha" target="https://open.spotify.com/user/31wrdrsz5odpdjhzon2mbwtwp6ha"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31wrdrsz5odpdjhzon2mbwtwp6ha&unique=true&count=1&width=300" /></a>
