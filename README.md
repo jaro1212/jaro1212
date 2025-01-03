@@ -13,7 +13,7 @@
 - 😸 Activamente aprendiendo nuevas tecnologias!!
 
 - 😺 Puedes ver mi [Portafolio](https://julianrodriguez.vercel.app/)
-
+<br>
 
 <h2 align="left">Conoceme! 🐱‍👤</h2>
 
