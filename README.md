@@ -6,6 +6,7 @@
 </h2>
 <img src = "https://github.com/user-attachments/assets/83edb574-4412-4fe5-b9a6-b78256668a96" width =50% height=50% align = "right">
 <br>
+
 😽 Entuciasta de **Frontend e Ilustracion**
 
 😸 Activamente aprendiendo nuevas tecnologias!!
